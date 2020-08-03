@@ -31,4 +31,4 @@ etc...
 # Contacts
 [LinkedIn](https://www.linkedin.com/in/robson-james-44a633127)
 
-[Email](james.robson.junior@gmail.com)
+[Email](mailto:james.robson.junior@gmail.com)
