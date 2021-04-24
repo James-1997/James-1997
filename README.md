@@ -5,7 +5,7 @@ I'm an iOS developer and I love making iOS apps and getting to know new technolo
 
 ## About me:
 
-Graduating in Systems Analysis and Development at Faculdade Martha Falcão (beginning in 2020) and Degree in Computing at the State University of Amazonas - UEA (Beginning in 2017). He obtained Scientific Initiation in the Induction Program for the Training of Human Resources in Information Technology - RH-TI (promoted by FAPEAM), from High School to Higher Education (from 2015 to 2017). In 2017 he participated in the Junior Company - STARTHUB and learned about agile methodologies and entrepreneurship in practice. Later he joined the Laboratory of Educational Technologies - LabTEd, where he developed educational games with a focus on mathematical learning. In 2018 he became iOS developer in the Apple Developer Academy project | Eldorado. In 2019 he graduated from the Apple Developer Academy | Eldorado with experience in iOS development in OBJECT-C and Swift, knowledge of agile methodologies, code versioning, design architecture, experience in publishing applications in the Apple Store, Development and Design of Applications according to the Apple guideline. At the end of 2019, he joined the VOIP Project intern at the Eldorado Research Institute, where he learned Analytics, programmatically view, persistence and other technologies and where he continues to work.
+Graduating in Systems Analysis and Development, at Faculdade Martha Falcão | In 2018 he became iOS developer in the Apple Developer Academy | Eldorado. In 2019 he graduated from the Apple Developer Academy | Eldorado with experience in iOS/WatchOS/TVOS development with OBJECT-C and Swift language, knowledge of Agile Methodologies, code versioning, system architecture, application publishing in the Apple Store, Application Development and Design according to the Apple guideline . At the end of 2019 he joined the VOIP Project intern at Instituto de Pesquisa Eldorado, where he learned Analytics, view code, persistence and other technologies. In May 2020 he became a Software Analyst Trainee, focused on mobile development for iOS atInstituto de Pesquisa Eldorado, deepened his knowledge in System Modularization, Clean Architecture and Tests (Unit and Interface). In September 2020 he joined iOS Developer at Invillia.
 
 ## Knowledge and topics of interest
 iOS
@@ -27,6 +27,11 @@ iOS
 -> Scrum
 -> Python
 etc...
+## New topics to Study
+-> Swift UI
+-> React Native
+-> Flutter
+-> Android
 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/robson-james-44a633127)
